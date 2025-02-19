@@ -1,0 +1,11 @@
+id_movie;name;pice_licence_usd;pre_date
+400;Of Human Bondage;1300.0;1970/09/18 00:00:00.000
+401;Look Homeward, Angel;1600.0;1976/12/28 00:00:00.000
+402;Of Human Bondage;1800.0;1999/10/23 00:00:00.000
+403;Little Hands Clapping;1400.0;1961/12/15 00:00:00.000
+404;I Sing the Body Electric;1700.0;1981/04/15 00:00:00.000
+405;A Handful of Dust;1200.0;1962/06/07 00:00:00.000
+406;This Lime Tree Bower;1300.0;2005/04/21 00:00:00.000
+407;For a Breath I Tarry;1300.0;1989/12/22 00:00:00.000
+408;To Say Nothing of the Dog;1800.0;1977/08/27 00:00:00.000
+409;The Heart Is a Lonely Hunter;1000.0;1990/08/27 00:00:00.000

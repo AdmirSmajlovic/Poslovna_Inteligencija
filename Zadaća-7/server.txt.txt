@@ -1,0 +1,11 @@
+id_servers;name;moderator
+200;Uranus;Ultra Storm Skull
+201;Mercury;Illustrious Etrigan I
+202;Mars;Spawn
+203;Saturn;Astro Boy
+204;Neptune;Bird Lord
+205;Earth;Cyborg Penguin Strange
+206;Jupiter;Captain Moonstone Brain
+207;Neptune;Proto-Goblin Girl
+208;Mercury;Cy-Gor Machine
+209;Earth;Giant Hell Lord

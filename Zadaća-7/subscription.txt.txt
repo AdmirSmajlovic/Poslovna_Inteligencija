@@ -1,0 +1,11 @@
+id_subscription;name;price_per_minute;subscription_price
+1;Hessel Inc;0.61;8.52
+2;Rolfson-Kutch;0.21;3.72
+3;Ratke, Marks and Gibson;0.81;10.92
+4;Reichel-Nolan;0.51;7.32
+5;Pfannerstill Group;0.81;10.92
+6;Schmeler, Smith and Boyer;0.01;1.32
+7;Jacobson, Heaney and Fritsch;0.61;8.52
+8;Runolfsson-Ferry;0.81;10.92
+9;Sipes-Ullrich;0.21;3.72
+10;Rolfson-Stroman;0.01;1.32

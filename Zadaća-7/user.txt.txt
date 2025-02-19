@@ -1,0 +1,11 @@
+id_user;name;surname;occupation;year;subscription_fk
+109;Deangelo;Lindgren;Cubone;2002;10
+108;Stewart;Lindgren;Magnemite;1992;9
+107;Reyna;Stiedemann;Dratini;1993;8
+106;Zaida;Moen;Golem;1980;7
+105;Ophelia;Koch;Nidoqueen;1988;6
+104;Karissa;Casper;Vileplume;1966;5
+103;Neomi;Steuber;Caterpie;1983;4
+102;Carlo;Torphy;Weedle;1979;3
+101;Sebastian;Walter;Ninetales;1964;2
+100;Tracy;Boehm;Hypno;1979;1
